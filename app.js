@@ -21,3 +21,9 @@ function sum(a,b){
 }
 
 sum(50,20)
+
+function sum(a,b){
+    console.log(a+b)
+}
+
+sum(50,20)
